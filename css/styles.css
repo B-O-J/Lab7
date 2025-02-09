@@ -1,3 +1,28 @@
+body {
+  background-color: blue;
+  font-size: 16px;
+}
 td, th {
 	border: 1px solid;
-  }
+	padding: 12px 15px;
+}
+table {
+  border-collapse: collapse;
+  border-radius: 15px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+.image {
+	background-color: black;
+}
+th {
+	background-color: aliceblue;
+  color: grey;
+  overflow: auto;
+}
+.planets {
+	text-align: center;
+}
+.fact {
+  font-weight: 600;
+  text-align: left;
+}
