@@ -1,5 +1,5 @@
 body {
-  background-color: blue;
+  background-color: aliceblue;
   font-size: 16px;
 }
 td, th {
@@ -15,8 +15,8 @@ table {
 	background-color: black;
 }
 th {
-	background-color: aliceblue;
-  color: grey;
+	background-color: grey;
+  color: green;
   overflow: auto;
 }
 .planets {
