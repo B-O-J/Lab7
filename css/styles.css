@@ -25,4 +25,6 @@ th {
 .fact {
   font-weight: 600;
   text-align: left;
+	background-color:#009879;
+  color: #ffffff;
 }
